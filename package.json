@@ -61,7 +61,7 @@
     "git-url-parse": "^11.4.4",
     "lodash": "^4.17.21",
     "queuefy": "^1.1.5",
-    "read-pkg": "^5.2.0",
+    "read-pkg": "^6.0.0",
     "then-request": "^6.0.2",
     "tslib": "^2.1.0"
   },
