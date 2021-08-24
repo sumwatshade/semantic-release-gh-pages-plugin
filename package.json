@@ -47,7 +47,7 @@
     "flow-typed"
   ],
   "dependencies": {
-    "@types/debug": "^4.1.5",
+    "@types/debug": "^4.1.7",
     "@types/git-url-parse": "^9.0.0",
     "@types/semantic-release": "^17.2.0",
     "@types/gh-pages": "^3.0.0",
